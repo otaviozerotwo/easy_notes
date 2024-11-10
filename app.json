@@ -6,9 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "plugins": [
-      "@prisma/react-native"
-    ],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -27,6 +24,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "plugins": [
+      "@prisma/react-native"
+    ],
     "extra": {
       "eas": {
         "projectId": "03fa7873-305a-40e9-948e-729efcbea9ef"

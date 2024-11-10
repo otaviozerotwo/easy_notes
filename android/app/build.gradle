@@ -1,4 +1,3 @@
-apply from: "../../node_modules/@prisma/react-native/react-native-prisma.gradle"
 apply plugin: "com.android.application"
 apply plugin: "org.jetbrains.kotlin.android"
 apply plugin: "com.facebook.react"
